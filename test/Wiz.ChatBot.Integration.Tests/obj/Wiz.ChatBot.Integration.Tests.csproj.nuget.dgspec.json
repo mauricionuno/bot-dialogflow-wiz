@@ -1,0 +1,387 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repositorio GIT\\Alone\\ChatBot\\test\\Wiz.ChatBot.Integration.Tests\\Wiz.ChatBot.Integration.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.API\\Wiz.ChatBot.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.API\\Wiz.ChatBot.API.csproj",
+        "projectName": "Wiz.ChatBot.API",
+        "projectPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.API\\Wiz.ChatBot.API.csproj",
+        "packagesPath": "C:\\Users\\mauriciojunior\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mauriciojunior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Domain\\Wiz.ChatBot.Domain.csproj": {
+                "projectPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Domain\\Wiz.ChatBot.Domain.csproj"
+              },
+              "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Infra\\Wiz.ChatBot.Infra.csproj": {
+                "projectPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Infra\\Wiz.ChatBot.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AspNetCore.HealthChecks.AzureKeyVault": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "AspNetCore.HealthChecks.Publisher.ApplicationInsights": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Google.Cloud.Dialogflow.V2": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.ResponseCompression": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.AzureKeyVault": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[12.3.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Domain\\Wiz.ChatBot.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Domain\\Wiz.ChatBot.Domain.csproj",
+        "projectName": "Wiz.ChatBot.Domain",
+        "projectPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Domain\\Wiz.ChatBot.Domain.csproj",
+        "packagesPath": "C:\\Users\\mauriciojunior\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mauriciojunior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Infra\\Wiz.ChatBot.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Infra\\Wiz.ChatBot.Infra.csproj",
+        "projectName": "Wiz.ChatBot.Infra",
+        "projectPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Infra\\Wiz.ChatBot.Infra.csproj",
+        "packagesPath": "C:\\Users\\mauriciojunior\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mauriciojunior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Domain\\Wiz.ChatBot.Domain.csproj": {
+                "projectPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Domain\\Wiz.ChatBot.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repositorio GIT\\Alone\\ChatBot\\test\\Wiz.ChatBot.Integration.Tests\\Wiz.ChatBot.Integration.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repositorio GIT\\Alone\\ChatBot\\test\\Wiz.ChatBot.Integration.Tests\\Wiz.ChatBot.Integration.Tests.csproj",
+        "projectName": "Wiz.ChatBot.Integration.Tests",
+        "projectPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\test\\Wiz.ChatBot.Integration.Tests\\Wiz.ChatBot.Integration.Tests.csproj",
+        "packagesPath": "C:\\Users\\mauriciojunior\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\test\\Wiz.ChatBot.Integration.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mauriciojunior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.API\\Wiz.ChatBot.API.csproj": {
+                "projectPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.API\\Wiz.ChatBot.API.csproj"
+              },
+              "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Domain\\Wiz.ChatBot.Domain.csproj": {
+                "projectPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Domain\\Wiz.ChatBot.Domain.csproj"
+              },
+              "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Infra\\Wiz.ChatBot.Infra.csproj": {
+                "projectPath": "D:\\Repositorio GIT\\Alone\\ChatBot\\src\\Wiz.ChatBot.Infra\\Wiz.ChatBot.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[28.3.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.3.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Domain\bin\Debug\netcoreapp3.0\Wiz.ChatBot.Domain.deps.json
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Domain\bin\Debug\netcoreapp3.0\Wiz.ChatBot.Domain.dll
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Domain\bin\Debug\netcoreapp3.0\Wiz.ChatBot.Domain.pdb
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Domain\obj\Debug\netcoreapp3.0\Wiz.ChatBot.Domain.AssemblyInfoInputs.cache
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Domain\obj\Debug\netcoreapp3.0\Wiz.ChatBot.Domain.AssemblyInfo.cs
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Domain\obj\Debug\netcoreapp3.0\Wiz.ChatBot.Domain.dll
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Domain\obj\Debug\netcoreapp3.0\Wiz.ChatBot.Domain.pdb
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Domain\obj\Debug\netcoreapp3.0\Wiz.ChatBot.Domain.csprojAssemblyReference.cache

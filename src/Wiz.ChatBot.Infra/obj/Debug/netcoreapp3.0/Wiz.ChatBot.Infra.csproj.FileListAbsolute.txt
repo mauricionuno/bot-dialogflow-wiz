@@ -1,0 +1,11 @@
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Infra\bin\Debug\netcoreapp3.0\Wiz.ChatBot.Infra.deps.json
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Infra\bin\Debug\netcoreapp3.0\Wiz.ChatBot.Infra.dll
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Infra\bin\Debug\netcoreapp3.0\Wiz.ChatBot.Infra.pdb
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Infra\bin\Debug\netcoreapp3.0\Wiz.ChatBot.Domain.dll
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Infra\bin\Debug\netcoreapp3.0\Wiz.ChatBot.Domain.pdb
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Infra\obj\Debug\netcoreapp3.0\Wiz.ChatBot.Infra.csprojAssemblyReference.cache
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Infra\obj\Debug\netcoreapp3.0\Wiz.ChatBot.Infra.AssemblyInfoInputs.cache
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Infra\obj\Debug\netcoreapp3.0\Wiz.ChatBot.Infra.AssemblyInfo.cs
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Infra\obj\Debug\netcoreapp3.0\Wiz.ChatBot.Infra.csproj.CopyComplete
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Infra\obj\Debug\netcoreapp3.0\Wiz.ChatBot.Infra.dll
+D:\Repositorio GIT\Alone\ChatBot\src\Wiz.ChatBot.Infra\obj\Debug\netcoreapp3.0\Wiz.ChatBot.Infra.pdb
